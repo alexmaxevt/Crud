@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dport=$PORT -jar ./build/libs/tage-1.0-SNAPSHOT-all.jar
+web: ./gradlew run
