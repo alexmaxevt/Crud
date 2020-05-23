@@ -1,7 +1,7 @@
 Thumbs.db*
 HELP.md
 .gradle
-#build/
+build/
 !**/src/main/**
 !**/src/test/**
 
